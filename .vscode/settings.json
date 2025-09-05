@@ -1,0 +1,37 @@
+{
+    "editor.fontSize": 15,
+    "editor.lineHeight": 28,
+    "editor.fontFamily": "JetBrains Mono",
+    // "workbench.colorCustomizations": {
+        // "tab.activeBackground": "#282c34",
+        // "activityBar.background": "#282c34",
+        // "sideBar.background": "#282c34",
+        // "tab.activeBorder": "#61360f",
+    // },
+    // "editor.tokenColorCustomizations": {
+    //   "[One Dark Pro]": {
+    //     "textMateRules": [
+    //       {
+    //         "scope": ["source.python"],
+    //         "settings": {
+    //           "foreground": "#e06c75"
+    //         }
+    //       }
+    //     ]
+    //   }
+    // },
+    // "editor.semanticTokenColorCustomizations": {
+    //   "[One Dark Pro]": {
+    //     // Apply to this theme only
+    //     "enabled": true,
+    //     "rules": {
+    //       "magicFunction:python": "#ee0000",
+    //       "function.declaration:python": "#990000",
+    //       "*.decorator:python": "#0000dd",
+    //       "*.typeHint:python": "#5500aa",
+    //       "*.typeHintComment:python": "#aaaaaa",
+    //       "parameter:python": "#aaaaaa"
+    //     }
+    //   }
+  // }
+}
